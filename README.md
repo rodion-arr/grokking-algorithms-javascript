@@ -4,4 +4,5 @@ This repo contains examples of algorithms presented in [Grokking Algorithms](htt
 
 Contents:
 
-- [Binary search](/src/1-binary-search.js)
+- [Binary search](/src/1-binary-search.js) - O(log n)
+- [Selection sort](/src/2-selection-sort.js) - O(n^2)
