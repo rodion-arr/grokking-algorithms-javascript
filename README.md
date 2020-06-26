@@ -11,3 +11,5 @@ Contents:
 - [Dijkstra's algorithm](/src/5-dijkstras-algorithm.js) - O(V^2)
 
 ![ex](https://user-images.githubusercontent.com/5843270/85731806-7f7e7400-b703-11ea-928d-515ccd614a56.png)
+
+- [Greedy algorithm](/src/6-greedy-algorithm.js) - O(n^2) instead of O(n!)
